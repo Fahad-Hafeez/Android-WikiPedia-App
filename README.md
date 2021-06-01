@@ -1,2 +1,0 @@
-# Android WikiPedia App
- 
